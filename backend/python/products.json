@@ -1,0 +1,29 @@
+[
+  {
+    "id": "P001",
+    "title": "Nike Running Shoes",
+    "description": "Lightweight running shoes",
+    "price": 4999.0,
+    "rating": 4.5,
+    "image_url": "/assets/images/nike.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": "P002",
+    "title": "Wireless Earbuds X100",
+    "description": "True wireless earbuds with 24h battery",
+    "price": 1999.0,
+    "rating": 4.2,
+    "image_url": "/assets/images/earbuds.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": "P003",
+    "title": "Smart Fitness Band",
+    "description": "Heart-rate monitor, sleep tracking",
+    "price": 1299.0,
+    "rating": 4.0,
+    "image_url": "/assets/images/band.jpg",
+    "category": "Wearables"
+  }
+]
